@@ -1,5 +1,5 @@
 # listas-ip
-Listas de questões da cadeira Introdução a Programação do primeiro período da UFPE
+Listas de exercícios da cadeira Introdução a Programação do primeiro período da UFPE
 
 ### Listas
 
